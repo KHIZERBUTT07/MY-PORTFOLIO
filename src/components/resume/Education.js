@@ -12,15 +12,15 @@ const Education = () => {
       {/* part one */}
       <div>
         <div className="py-6 lgl:py-12 font-titleFont flex flex-col gap-4">
-          <p className="text-sm text-designColor tracking-[4px]">1998 - 2010</p>
+          <p className="text-sm text-designColor tracking-[4px]">Present</p>
           <h2 className="text-3xl md:text-4xl font-bold">Education Quality</h2>
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="BSc in Computer Science"
-            subTitle="University of DVI (2024 - Present)"
+            title="BS in Computer Science"
+            subTitle="University  (2024 - Present)"
             result="3.90/4"
-            des="."
+            des=""
           />
           <ResumeCard
             title="Higher Secondary Education"
@@ -40,27 +40,27 @@ const Education = () => {
 
       <div>
         <div className="py-6 lgl:py-12 font-titleFont flex flex-col gap-4">
-          <p className="text-sm text-designColor tracking-[4px]">2010 - 2022</p>
-          <h2 className="text-3xl md:text-4xl font-bold">Job Experience</h2>
+          <p className="text-sm text-designColor tracking-[4px]">Present</p>
+          <h2 className="text-3xl md:text-4xl font-bold">Work Experience</h2>
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="Sr. Software Engineer"
-            subTitle="Google Out Tech - (2017 - Present)"
-            result="USA"
-            des="Google's hiring process is an important part of our culture. Googlers care deeply about their teams and the people who make them up."
+            title="React Apps"
+            subTitle="present"
+            result="Great"
+            des="I am currently learning ReactJs and i know react basics and i have made some E-commerce stores using React and some APIs.I am also making Assignments and Projects by using Redux tool"
           />
           <ResumeCard
-            title="Web Developer & Trainer"
-            subTitle="Apple Developer Team - (2012 - 2016)"
-            result="MALAYSIA"
-            des="A popular destination with a growing number of highly qualified homegrown graduates, it's true that securing a role in Malaysia isn't easy."
+            title="JavaScript Projects"
+            subTitle="4months"
+            result="Excellent"
+            des=" When i was learning Javascript i have made some great JS Projects and Assignments which contains Weather App and Some Todos App and Landing Pages with Functionality."
           />
           <ResumeCard
-            title="Front-end Developer"
-            subTitle="Nike - (2020 - 2011)"
-            result="Oman"
-            des="The Oman economy has grown strongly over recent years, having transformed itself from a producer and innovation-based economy."
+            title="CSS Designs"
+            subTitle="2months"
+            result="Excellent"
+            des="I have made some excellent Css designs when i was learning CSS3 and i converted Figma designs into code which contains forms , landing pages , Brouchers & Many more."
           />
         </div>
       </div>
