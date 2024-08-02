@@ -7,7 +7,10 @@ import testimonialOne from "./images/testmonial/testimonialOne.png";
 import testimonialTwo from "./images/testmonial/testimonialTwo.png";
 import quote from "./images/testmonial/quote.png";
 import contactImg from "./images/contact/contactImg.png";
-
+import khizerBanner from "./images/khizerBanner.png";
+import khizerProfile from "./images/khizerProfile.png"
+import khizer from "./images/khizer.png"
+import khizerlogo from "./images/khizerlogo.png"
 export {
   logo,
   bannerImg,
@@ -18,4 +21,8 @@ export {
   testimonialTwo,
   quote,
   contactImg,
-};
+  khizerBanner,
+  khizerProfile,
+  khizer,
+  khizerlogo,
+};  
