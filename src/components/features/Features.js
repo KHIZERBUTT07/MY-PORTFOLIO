@@ -14,21 +14,18 @@ const Features = () => {
       <Title title="Features" des="What I Do" />
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-20">
         <Card
-          title="Website Development"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
+          title="Web Development"
+          des="I know Html , Css , TailwindCSS , JavaScript , TypeScript and learning ReactJs & through these technologies I develope different Websites."
          
         />
         <Card
-          title="Landing Pages"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
+          title="E-commerce Stores"
+          des="I develop different type of E-commerce Stores using different Platforms or Technologies like Wordpress and Shopify with custom Development."
           icon={<AiFillAppstore />}
         />
         <Card
           title="UI/UX Design"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
+          des="I also Design websites when needed mostly with Canva , Figma or Phototshop."
           icon={<SiProgress />}
         />
         {/* <Card

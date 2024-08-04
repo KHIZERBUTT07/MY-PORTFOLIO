@@ -110,7 +110,7 @@ const Testimonial = () => {
                   <p className="text-xs uppercase text-designColor tracking-wide mb-2">
                     Bound - Trolola
                   </p>
-                  <h3 className="text-2xl font-bold">Jone Duone Joe</h3>
+                  <h3 className="text-2xl font-bold">Mr Muneeb</h3>
                   <p className="text-base tracking-wide text-gray-500">
                     Operation Officer
                   </p>
@@ -125,7 +125,7 @@ const Testimonial = () => {
                         Travel Mobile App Design.
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
-                        via Upwork - Mar 4, 2015 - Aug 30, 2021 test
+                        via Upwork - Mar 4, 2019 - present
                       </p>
                     </div>
                     <div className="text-yellow-500 flex gap-1">
@@ -161,7 +161,7 @@ const Testimonial = () => {
                   <p className="text-xs uppercase text-designColor tracking-wide mb-2">
                     Bound - Trolola
                   </p>
-                  <h3 className="text-2xl font-bold">Jone Duone Joe</h3>
+                  <h3 className="text-2xl font-bold">Mr Khubaib</h3>
                   <p className="text-base tracking-wide text-gray-500">
                     Operation Officer
                   </p>
@@ -176,8 +176,8 @@ const Testimonial = () => {
                         Travel Mobile App Design.
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
-                        via Upwork - Mar 4, 2015 - Aug 30, 2021 test
-                      </p>
+                        via Upwork - Mar 111, 2017 - present
+                        </p>
                     </div>
                     <div className="text-yellow-500 flex gap-1">
                       <RiStarFill />
@@ -212,7 +212,7 @@ const Testimonial = () => {
                   <p className="text-xs uppercase text-designColor tracking-wide mb-2">
                     Bound - Trolola
                   </p>
-                  <h3 className="text-2xl font-bold">Jone Duone Joe</h3>
+                  <h3 className="text-2xl font-bold">Mr Bilal</h3>
                   <p className="text-base tracking-wide text-gray-500">
                     Operation Officer
                   </p>
@@ -227,7 +227,7 @@ const Testimonial = () => {
                         Travel Mobile App Design.
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
-                        via Upwork - Mar 4, 2015 - Aug 30, 2021 test
+                        via Upwork - Dec 27, 2023 - present
                       </p>
                     </div>
                     <div className="text-yellow-500 flex gap-1">

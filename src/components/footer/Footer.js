@@ -1,21 +1,22 @@
 import React from 'react'
 import { FaFacebookF, FaTwitter, FaLinkedinIn } from "react-icons/fa";
-import {logo} from "../../assets/index"
+import {khizerlogo, logo} from "../../assets/index"
 
 const Footer = () => {
   return (
     <div className="w-full py-20 h-auto border-b-[1px] border-b-black grid grid-cols-1 md:grid-cols-2 lgl:grid-cols-4 gap-8">
       <div className="w-full h-full flex flex-col gap-8">
-        <img className="w-32" src={logo} alt="logo" />
+        <img className="w-32" src={khizerlogo} alt="logo" />
         <div className="flex gap-4">
+        
           <span className="bannerIcon">
-            <FaFacebookF />
+          <a target='blank' href="https://www.facebook.com/khizer.butt.161214?mibextid=kFxxJD"><FaFacebookF /></a>
           </span>
           <span className="bannerIcon">
             <FaTwitter />
           </span>
           <span className="bannerIcon">
-            <FaLinkedinIn />
+          <a target='blank' href="https://www.linkedin.com/in/khizer-butt-637a3a241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><FaLinkedinIn /></a>
           </span>
         </div>
       </div>
